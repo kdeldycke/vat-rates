@@ -10,9 +10,6 @@ DE-87567
 DE-87568
 DE-87569",0.19,Mittelberg (Austrian town) special VAT rate.
 2015-01-01T00:00:00.000000+00:00,,BE,0.21,Belgium (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,"GB-BFPO 57
-GB-BFPO 58
-GB-BFPO 59",0.19,Akrotiri and Dhekelia (British overseas territory) is subjected to Cyprus' standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,BG,0.2,Bulgaria (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,BM,0,Bermuda (British overseas territory) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,CY,0.19,Cyprus (member state) standard VAT rate.
@@ -41,29 +38,34 @@ AX",0,Aland Islands (Finish autonomous region) is exempted of VAT.
 MC",0.2,"France (member state) standard VAT rate.
 Monaco (sovereign city-state) is member of the EU VAT area and subjected to France's standard VAT rate."
 2015-01-01T00:00:00.000000+00:00,,"FR-BL
-BL",??,Saint Barthelemy (French overseas collectivity) is ??
+BL",0,Saint Barthelemy (French overseas collectivity) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,"FR-GF
-GF",0,Guiana (French oversea department) is exempted of VAT.
+GF",0,Guiana (French overseas department) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,"FR-GP
-GP",0.085,Guadeloupe (French oversea department) special VAT rate.
+GP",0.085,Guadeloupe (French overseas department) special VAT rate.
 2015-01-01T00:00:00.000000+00:00,,"FR-MF
 MF",0.2,Saint Martin (French overseas collectivity) is subjected to France's standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,"FR-MQ
-MQ",0.085,Martinique (French oversea department) special VAT rate.
+MQ",0.085,Martinique (French overseas department) special VAT rate.
 2015-01-01T00:00:00.000000+00:00,,"FR-NC
-NC",??,New Caledonia (French special collectivity) is ??
+NC",0,New Caledonia (French special collectivity) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,"FR-PF
-PF",??,French Polynesia (French overseas collectivity) is ??
+PF",0,French Polynesia (French overseas collectivity) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,"FR-PM
-PM",??,Saint Pierre and Miquelon (French overseas collectivity) is ??
+PM",0,Saint Pierre and Miquelon (French overseas collectivity) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,"FR-RE
-RE",0.085,Reunion (French oversea department) special VAT rate.
+RE",0.085,Reunion (French overseas department) special VAT rate.
 2015-01-01T00:00:00.000000+00:00,,"FR-TF
-TF",??,French Southern and Antarctic Lands (French overseas territory) is ??
+TF",0,French Southern and Antarctic Lands (French overseas territory) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,"FR-WF
-WF",??,Wallis and Futuna (French overseas collectivity) is ??
+WF",0,Wallis and Futuna (French overseas collectivity) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,"FR-YT
-YT",0,Mayotte (French oversea department) is exempted of VAT.
+YT",0,Mayotte (French overseas department) is exempted of VAT.
+2015-01-01T00:00:00.000000+00:00,,"GB-BFPO 57
+GB-BFPO 58
+GB-BFPO 59",0.19,Akrotiri and Dhekelia (British overseas territory) is subjected to Cyprus' standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,GG,0,Guernsey (British Crown dependency) is exempted of VAT.
+2015-01-01T00:00:00.000000+00:00,,GI,0,Gibraltar (British overseas territory) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,GL,0,Greenland (Danish autonomous country) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,GR-34007,0.16,Skyros (Greek island) special VAT rate.
 2015-01-01T00:00:00.000000+00:00,,"GR-37002
