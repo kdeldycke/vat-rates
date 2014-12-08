@@ -31,5 +31,5 @@ Sources
 * http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/index_en.htm
 * http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf
 * http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm
+* https://en.wikipedia.org/wiki/European_Union_Value_Added_Tax_Area
 * https://en.wikipedia.org/wiki/Special_member_state_territories_and_the_European_Union
-
