@@ -17,9 +17,9 @@ Schema
   * ISO 3166-1 alpha-2 country codes,
   * ISO 3166-2 subdivision codes, or
   * normalized postal code with a leading ISO 3166-1 alpha-2 country codes.
-  
+
 `rate` is the decimal VAT rate.
-  
+
 `description` describe the rate.
 
 
