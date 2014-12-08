@@ -33,3 +33,9 @@ Sources
 * http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm
 * https://en.wikipedia.org/wiki/European_Union_Value_Added_Tax_Area
 * https://en.wikipedia.org/wiki/Special_member_state_territories_and_the_European_Union
+
+
+License
+-------
+
+This software is licensed under a [BSD 2-Clause License](./LICENSE.md).
