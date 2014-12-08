@@ -1,109 +1,109 @@
-start_date,stop_date,currency_code,territory_codes,rate,description
-2015-01-01T00:00:00.000000+00:00,,EUR,AT,0.2,Austria (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"AT-6691
+start_date,stop_date,territory_codes,rate,description
+2015-01-01T00:00:00.000000+00:00,,AT,0.2,Austria (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"AT-6691
 DE-87491",0.19,Jungholz (Austrian town) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"AT-6991
+2015-01-01T00:00:00.000000+00:00,,"AT-6991
 AT-6992
 AT-6993
 DE-87567
 DE-87568
 DE-87569",0.19,Mittelberg (Austrian town) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,BE,0.21,Belgium (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"GB-BFPO 57
+2015-01-01T00:00:00.000000+00:00,,BE,0.21,Belgium (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GB-BFPO 57
 GB-BFPO 58
 GB-BFPO 59",0.19,Akrotiri and Dhekelia (British overseas territory) is subjected to Cyprus' standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,BG,0.2,Bulgaria (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,CY,0.19,Cyprus (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,CZ,0.21,Czech Republic (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,DE,0.19,Germany (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,DE-27498,0,Heligoland (German island) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,EUR,"DE-78266
+2015-01-01T00:00:00.000000+00:00,,BG,0.2,Bulgaria (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,CY,0.19,Cyprus (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,CZ,0.21,Czech Republic (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,DE,0.19,Germany (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,DE-27498,0,Heligoland (German island) is exempted of VAT.
+2015-01-01T00:00:00.000000+00:00,,"DE-78266
 CH-8238",0,Busingen am Hochrhein (German territory) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,EUR,DK,0.25,Denmark (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,EE,0.2,Estonia (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,EL,0.23,Greece (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,ES,0.21,Spain (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"ES-CN
+2015-01-01T00:00:00.000000+00:00,,DK,0.25,Denmark (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EE,0.2,Estonia (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EL,0.23,Greece (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,ES,0.21,Spain (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"ES-CN
 ES-GC
 ES-TF
 IC",0,Canary Islands (Spanish autonomous community) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,EUR,"ES-ML
+2015-01-01T00:00:00.000000+00:00,,"ES-ML
 ES-CE
 EA",0,Ceuta and Melilla (Spanish autonomous cities) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,EUR,FI,0.24,Finland (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"FI-01
+2015-01-01T00:00:00.000000+00:00,,FI,0.24,Finland (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"FI-01
 AX",0,Aland Islands (Finish autonomous region) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,DKK,FO,0,Faroe Islands (Danish autonomous country) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR
+2015-01-01T00:00:00.000000+00:00,,FO,0,Faroe Islands (Danish autonomous country) is exempted of VAT.
+2015-01-01T00:00:00.000000+00:00,,"FR
 MC",0.2,"France (member state) standard VAT rate.
 Monaco (sovereign city-state) is member of the EU VAT area and subjected to France's standard VAT rate."
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-BL
+2015-01-01T00:00:00.000000+00:00,,"FR-BL
 BL",??,Saint Barthelemy (French overseas collectivity) is ??
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-GF
+2015-01-01T00:00:00.000000+00:00,,"FR-GF
 GF",0,Guiana (French oversea department) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-GP
+2015-01-01T00:00:00.000000+00:00,,"FR-GP
 GP",0.085,Guadeloupe (French oversea department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-MF
+2015-01-01T00:00:00.000000+00:00,,"FR-MF
 MF",0.2,Saint Martin (French overseas collectivity) is subjected to France's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-MQ
+2015-01-01T00:00:00.000000+00:00,,"FR-MQ
 MQ",0.085,Martinique (French oversea department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-NC
+2015-01-01T00:00:00.000000+00:00,,"FR-NC
 NC",??,New Caledonia (French special collectivity) is ??
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-PF
+2015-01-01T00:00:00.000000+00:00,,"FR-PF
 PF",??,French Polynesia (French overseas collectivity) is ??
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-PM
+2015-01-01T00:00:00.000000+00:00,,"FR-PM
 PM",??,Saint Pierre and Miquelon (French overseas collectivity) is ??
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-RE
+2015-01-01T00:00:00.000000+00:00,,"FR-RE
 RE",0.085,Reunion (French oversea department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-TF
+2015-01-01T00:00:00.000000+00:00,,"FR-TF
 TF",??,French Southern and Antarctic Lands (French overseas territory) is ??
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-WF
+2015-01-01T00:00:00.000000+00:00,,"FR-WF
 WF",??,Wallis and Futuna (French overseas collectivity) is ??
-2015-01-01T00:00:00.000000+00:00,,EUR,"FR-YT
+2015-01-01T00:00:00.000000+00:00,,"FR-YT
 YT",0,Mayotte (French oversea department) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,DKK,GL,0,Greenland (Danish autonomous country) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,EUR,GR-34007,0.16,Skyros (Greek island) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"GR-37002
+2015-01-01T00:00:00.000000+00:00,,GL,0,Greenland (Danish autonomous country) is exempted of VAT.
+2015-01-01T00:00:00.000000+00:00,,GR-34007,0.16,Skyros (Greek island) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GR-37002
 GR-37003
 GR-37005",0.16,Northern Sporades (Greek islands) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,GR-64004,0.16,Thasos (Greek island) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,GR-68002,0.16,Samothrace (Greek island) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,GR-69,0,Mount Athos (Greek self-governed part) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,EUR,GR-81,0.16,Dodecanese (Greek department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,GR-82,0.16,Cyclades (Greek department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,GR-83,0.16,Lesbos (Greek department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,GR-84,0.16,Samos (Greek department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,GR-85,0.16,Chios (Greek department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,HR,0.25,Croatia (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,HU,0.27,Hungary (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,IE,0.23,Ireland (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,IT,0.22,Italy (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"IT-22060
+2015-01-01T00:00:00.000000+00:00,,GR-64004,0.16,Thasos (Greek island) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,GR-68002,0.16,Samothrace (Greek island) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,GR-69,0,Mount Athos (Greek self-governed part) is exempted of VAT.
+2015-01-01T00:00:00.000000+00:00,,GR-81,0.16,Dodecanese (Greek department) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,GR-82,0.16,Cyclades (Greek department) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,GR-83,0.16,Lesbos (Greek department) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,GR-84,0.16,Samos (Greek department) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,GR-85,0.16,Chios (Greek department) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,HR,0.25,Croatia (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,HU,0.27,Hungary (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,IE,0.23,Ireland (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,IT,0.22,Italy (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"IT-22060
 CH-6911",0,Campione (Italian town) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,EUR,IT-23030,0,Livigno (Italian town) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,EUR,LT,0.21,Lithuania (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,LU,0.15,Luxembourg (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,LV,0.21,Latvia (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,MT,0.18,Malta (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,NL,0.21,Netherlands (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"NL-AW
+2015-01-01T00:00:00.000000+00:00,,IT-23030,0,Livigno (Italian town) is exempted of VAT.
+2015-01-01T00:00:00.000000+00:00,,LT,0.21,Lithuania (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,LU,0.15,Luxembourg (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,LV,0.21,Latvia (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,MT,0.18,Malta (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,NL,0.21,Netherlands (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"NL-AW
 NL-CW
 NL-SX
 AW
 CW
 SX",0,"Aruba, Curacao and Sint Maarten (Dutch countries) are exempted of VAT."
-2015-01-01T00:00:00.000000+00:00,,EUR,"NL-BQ1
+2015-01-01T00:00:00.000000+00:00,,"NL-BQ1
 NL-BQ2
 NL-BQ3
 BQ",0,"Bonaire, Saba and Sint Eustatius (Dutch special municipalities) are exempted of VAT."
-2015-01-01T00:00:00.000000+00:00,,EUR,PL,0.23,Poland (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,PT,0.23,Portugal (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,PT-20,0.18,Azores (Portuguese autonomous region) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,PT-30,0.22,Madeira (Portuguese autonomous region) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,RO,0.24,Romania (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,SE,0.25,Sweden (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,SI,0.22,Slovenia (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,SK,0.2,Slovakia (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,"UK
+2015-01-01T00:00:00.000000+00:00,,PL,0.23,Poland (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,PT,0.23,Portugal (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,PT-20,0.18,Azores (Portuguese autonomous region) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,PT-30,0.22,Madeira (Portuguese autonomous region) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,RO,0.24,Romania (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,SE,0.25,Sweden (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,SI,0.22,Slovenia (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,SK,0.2,Slovakia (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"UK
 IM",0.2,"United Kingdom (member state) standard VAT rate.
 Isle of Man (British self-governing dependency) is member of the EU VAT area and subjected to UK's standard VAT rate."
