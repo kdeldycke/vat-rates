@@ -23,3 +23,11 @@ Schema
 `rate` is the decimal VAT rate.
   
 `description` describe the rate.
+
+
+Sources
+-------
+
+* http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf
+* https://en.wikipedia.org/wiki/Special_member_state_territories_and_the_European_Union
+
