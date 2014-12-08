@@ -1,35 +1,35 @@
 start_date,stop_date,currency_code,territory_codes,rate,description
-2015-01-01T00:00:00.000000+00:00,,EUR,BE,0.21,Belgian's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,BG,0.2,Bulgaria's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,CZ,0.21,Czech Republic's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,DK,0.25,Denmark's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,DE,0.19,Germany's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,EE,0.2,Estonia's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,EL,0.23,Greece's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,ES,0.21,Spain's standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,BE,0.21,Belgium (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,BG,0.2,Bulgaria (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,CZ,0.21,Czech Republic (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,DK,0.25,Denmark (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,DE,0.19,Germany (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,EE,0.2,Estonia (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,EL,0.23,Greece (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,ES,0.21,Spain (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,EUR,"FR
-MC",0.2,"France's standard VAT rate.
+MC",0.2,"France (member state) standard VAT rate.
 Monaco (sovereign city-state) is member of the EU VAT area and subjected to France's standard VAT rate."
-2015-01-01T00:00:00.000000+00:00,,EUR,HR,0.25,Croatia's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,IE,0.23,Ireland's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,IT,0.22,Italy's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,CY,0.19,Cyprus' standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,LV,0.21,Latvia's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,LT,0.21,Lithuania's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,LU,0.15,Luxembourg's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,HU,0.27,Hungary's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,MT,0.18,Malta's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,NL,0.21,Netherlands' standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,AT,0.2,Austria's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,PL,0.23,Poland's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,PT,0.23,Portugal's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,RO,0.24,Romania's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,SI,0.22,Slovenia's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,SK,0.2,Slovakia's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,FI,0.24,Finland's standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,EUR,SE,0.25,Sweden's standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,HR,0.25,Croatia (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,IE,0.23,Ireland (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,IT,0.22,Italy (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,CY,0.19,Cyprus (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,LV,0.21,Latvia (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,LT,0.21,Lithuania (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,LU,0.15,Luxembourg (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,HU,0.27,Hungary (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,MT,0.18,Malta (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,NL,0.21,Netherlands (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,AT,0.2,Austria (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,PL,0.23,Poland (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,PT,0.23,Portugal (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,RO,0.24,Romania (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,SI,0.22,Slovenia (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,SK,0.2,Slovakia (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,FI,0.24,Finland (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,EUR,SE,0.25,Sweden (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,EUR,"UK
-IM",0.2,"United Kingdom's standard VAT rate.
+IM",0.2,"United Kingdom (member state) standard VAT rate.
 Isle of Man (British self-governing dependency) is member of the EU VAT area and subjected to UK's standard VAT rate."
 2015-01-01T00:00:00.000000+00:00,,EUR,"FR-BL
 BL",??,Saint Barthelemy (French overseas collectivity) is ??
