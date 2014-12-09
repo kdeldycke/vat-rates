@@ -1,11 +1,11 @@
 start_date,stop_date,territory_codes,standard_rate,description
-2015-01-01,,AI,0,Anguilla (British overseas territory) is exempted of VAT.
+2011-01-04,,AI,0,Anguilla (British overseas territory) is exempted of VAT.
 1984-01-01,,AT,0.2,Austria (member state) standard VAT rate.
 1976-01-01,1984-01-01,AT,0.18,
 1973-01-01,1976-01-01,AT,0.16,
-2015-01-01,,"AT-6691
+1984-01-01,,"AT-6691
 DE-87491",0.19,Jungholz (Austrian town) special VAT rate.
-2015-01-01,,"AT-6991
+1984-01-01,,"AT-6991
 AT-6992
 AT-6993
 DE-87567
@@ -21,7 +21,7 @@ DE-87569",0.19,Mittelberg (Austrian town) special VAT rate.
 1999-01-01,,BG,0.2,Bulgaria (member state) standard VAT rate.
 1996-07-01,1999-01-01,BG,0.22,
 1994-04-01,1996-07-01,BG,0.18,
-2015-01-01,,BM,0,Bermuda (British overseas territory) is exempted of VAT.
+2011-01-04,,BM,0,Bermuda (British overseas territory) is exempted of VAT.
 2014-01-13,,CY,0.19,Cyprus (member state) standard VAT rate.
 2013-01-14,2014-01-13,CY,0.18,
 2012-03-01,2013-01-14,CY,0.17,
@@ -43,8 +43,8 @@ DE-87569",0.19,Mittelberg (Austrian town) special VAT rate.
 1978-01-01,1979-07-01,DE,0.12,
 1968-07-01,1978-01-01,DE,0.11,
 1968-01-01,1968-07-01,DE,0.1,
-2015-01-01,,DE-27498,0,Heligoland (German island) is exempted of VAT.
-2015-01-01,,"DE-78266
+2007-01-01,,DE-27498,0,Heligoland (German island) is exempted of VAT.
+2007-01-01,,"DE-78266
 CH-8238",0,Busingen am Hochrhein (German territory) is exempted of VAT.
 1992-01-01,,DK,0.25,Denmark (member state) standard VAT rate.
 1980-06-30,1992-01-01,DK,0.22,
@@ -74,20 +74,20 @@ EL",0.18,
 1992-08-01,1995-01-01,ES,0.15,
 1992-01-01,1992-08-01,ES,0.13,
 1986-01-01,1992-01-01,ES,0.12,
-2015-01-01,,"ES-CN
+2012-09-01,,"ES-CN
 ES-GC
 ES-TF
 IC",0,Canary Islands (Spanish autonomous community) is exempted of VAT.
-2015-01-01,,"ES-ML
+2012-09-01,,"ES-ML
 ES-CE
 EA",0,Ceuta and Melilla (Spanish autonomous cities) is exempted of VAT.
 2013-01-01,,FI,0.24,Finland (member state) standard VAT rate.
 2010-07-01,2013-01-01,FI,0.23,
 1994-06-01,2010-07-01,FI,0.22,
-2015-01-01,,"FI-01
+2013-01-01,,"FI-01
 AX",0,Aland Islands (Finish autonomous region) is exempted of VAT.
-2015-01-01,,FK,0,Falkland Islands (British overseas territory) is exempted of VAT.
-2015-01-01,,FO,0,Faroe Islands (Danish autonomous country) is exempted of VAT.
+2011-01-04,,FK,0,Falkland Islands (British overseas territory) is exempted of VAT.
+1992-01-01,,FO,0,Faroe Islands (Danish autonomous country) is exempted of VAT.
 2014-01-01,,"FR
 MC",0.2,"France (member state) standard VAT rate.
 Monaco (sovereign city-state) is member of the EU VAT area and subjected to France's standard VAT rate."
@@ -107,64 +107,64 @@ MC",0.23,
 MC",0.19,
 1968-01-01,1968-12-01,"FR
 MC",0.1666,
-2015-01-01,,"FR-BL
+2014-01-01,,"FR-BL
 BL",0,Saint Barthelemy (French overseas collectivity) is exempted of VAT.
-2015-01-01,,"FR-GF
+2014-01-01,,"FR-GF
 GF",0,Guiana (French overseas department) is exempted of VAT.
-2015-01-01,,"FR-GP
+2014-01-01,,"FR-GP
 GP",0.085,Guadeloupe (French overseas department) special VAT rate.
-2015-01-01,,"FR-MF
+2014-01-01,,"FR-MF
 MF",0.2,Saint Martin (French overseas collectivity) is subjected to France's standard VAT rate.
-2015-01-01,,"FR-MQ
+2014-01-01,,"FR-MQ
 MQ",0.085,Martinique (French overseas department) special VAT rate.
-2015-01-01,,"FR-NC
+2014-01-01,,"FR-NC
 NC",0,New Caledonia (French special collectivity) is exempted of VAT.
-2015-01-01,,"FR-PF
+2014-01-01,,"FR-PF
 PF",0,French Polynesia (French overseas collectivity) is exempted of VAT.
-2015-01-01,,"FR-PM
+2014-01-01,,"FR-PM
 PM",0,Saint Pierre and Miquelon (French overseas collectivity) is exempted of VAT.
-2015-01-01,,"FR-RE
+2014-01-01,,"FR-RE
 RE",0.085,Reunion (French overseas department) special VAT rate.
-2015-01-01,,"FR-TF
+2014-01-01,,"FR-TF
 TF",0,French Southern and Antarctic Lands (French overseas territory) is exempted of VAT.
-2015-01-01,,"FR-WF
+2014-01-01,,"FR-WF
 WF",0,Wallis and Futuna (French overseas collectivity) is exempted of VAT.
-2015-01-01,,"FR-YT
+2014-01-01,,"FR-YT
 YT",0,Mayotte (French overseas department) is exempted of VAT.
-2015-01-01,,"GB-BFPO 57
+2014-01-13,,"GB-BFPO 57
 GB-BFPO 58
 GB-BFPO 59
 UK-BFPO 57
 UK-BFPO 58
 UK-BFPO 59",0.19,Akrotiri and Dhekelia (British overseas territory) is subjected to Cyprus' standard VAT rate.
-2015-01-01,,GG,0,Guernsey (British Crown dependency) is exempted of VAT.
-2015-01-01,,GI,0,Gibraltar (British overseas territory) is exempted of VAT.
-2015-01-01,,GL,0,Greenland (Danish autonomous country) is exempted of VAT.
-2015-01-01,,"GR-34007
+2011-01-04,,GG,0,Guernsey (British Crown dependency) is exempted of VAT.
+2011-01-04,,GI,0,Gibraltar (British overseas territory) is exempted of VAT.
+1992-01-01,,GL,0,Greenland (Danish autonomous country) is exempted of VAT.
+2010-07-01,,"GR-34007
 EL-34007",0.16,Skyros (Greek island) special VAT rate.
-2015-01-01,,"GR-37002
+2010-07-01,,"GR-37002
 GR-37003
 GR-37005
 EL-37002
 EL-37003
 EL-37005",0.16,Northern Sporades (Greek islands) special VAT rate.
-2015-01-01,,"GR-64004
+2010-07-01,,"GR-64004
 EL-64004",0.16,Thasos (Greek island) special VAT rate.
-2015-01-01,,"GR-68002
+2010-07-01,,"GR-68002
 EL-68002",0.16,Samothrace (Greek island) special VAT rate.
-2015-01-01,,"GR-69
+2010-07-01,,"GR-69
 EL-69",0,Mount Athos (Greek self-governed part) is exempted of VAT.
-2015-01-01,,"GR-81
+2010-07-01,,"GR-81
 EL-81",0.16,Dodecanese (Greek department) special VAT rate.
-2015-01-01,,"GR-82
+2010-07-01,,"GR-82
 EL-82",0.16,Cyclades (Greek department) special VAT rate.
-2015-01-01,,"GR-83
+2010-07-01,,"GR-83
 EL-83",0.16,Lesbos (Greek department) special VAT rate.
-2015-01-01,,"GR-84
+2010-07-01,,"GR-84
 EL-84",0.16,Samos (Greek department) special VAT rate.
-2015-01-01,,"GR-85
+2010-07-01,,"GR-85
 EL-85",0.16,Chios (Greek department) special VAT rate.
-2015-01-01,,GS,0,South Georgia and the South Sandwich Islands (British overseas territory) is exempted of VAT.
+2011-01-04,,GS,0,South Georgia and the South Sandwich Islands (British overseas territory) is exempted of VAT.
 2012-03-01,,HR,0.25,Croatia (member state) standard VAT rate.
 2009-08-01,,HR,0.23,
 1998-08-01,,HR,0.22,
@@ -187,7 +187,7 @@ EL-85",0.16,Chios (Greek department) special VAT rate.
 1976-03-01,1980-05-01,IE,0.2,
 1973-09-03,1976-03-01,IE,0.195,
 1972-11-01,1973-09-03,IE,0.1637,
-2015-01-01,,IO,0,British Indian Ocean Territory (British overseas territory) is exempted of VAT.
+2011-01-04,,IO,0,British Indian Ocean Territory (British overseas territory) is exempted of VAT.
 2013-10-01,,IT,0.22,Italy (member state) standard VAT rate.
 2011-09-17,2013-10-01,IT,0.21,
 1997-10-01,2011-09-17,IT,0.2,
@@ -198,11 +198,11 @@ EL-85",0.16,Chios (Greek department) special VAT rate.
 1980-07-03,1980-11-01,IT,0.15,
 1977-02-08,1980-07-03,IT,0.14,
 1973-01-01,1977-02-08,IT,0.12,
-2015-01-01,,"IT-22060
+2013-10-01,,"IT-22060
 CH-6911",0,Campione (Italian town) is exempted of VAT.
-2015-01-01,,IT-23030,0,Livigno (Italian town) is exempted of VAT.
-2015-01-01,,JE,0,Jersey (British Crown dependency) is exempted of VAT.
-2015-01-01,,KY,0,Cayman Islands (British overseas territory) is exempted of VAT.
+2013-10-01,,IT-23030,0,Livigno (Italian town) is exempted of VAT.
+2011-01-04,,JE,0,Jersey (British Crown dependency) is exempted of VAT.
+2011-01-04,,KY,0,Cayman Islands (British overseas territory) is exempted of VAT.
 2009-09-01,,LT,0.21,Lithuania (member state) standard VAT rate.
 2009-01-01,2009-09-01,LT,0.19,
 1994-05-01,2009-01-01,LT,0.18,
@@ -215,7 +215,7 @@ CH-6911",0,Campione (Italian town) is exempted of VAT.
 2011-01-01,2012-07-01,LV,0.22,
 2009-01-01,2011-01-01,LV,0.21,
 1995-05-01,2009-01-01,LV,0.18,
-2015-01-01,,MS,0,Montserrat (British overseas territory) is exempted of VAT.
+2011-01-04,,MS,0,Montserrat (British overseas territory) is exempted of VAT.
 2004-01-01,,MT,0.18,Malta (member state) standard VAT rate.
 1995-01-01,2004-01-01,MT,0.15,
 2012-10-01,,NL,0.21,Netherlands (member state) standard VAT rate.
@@ -228,19 +228,19 @@ CH-6911",0,Campione (Italian town) is exempted of VAT.
 1973-01-01,1976-01-01,NL,0.16,
 1971-01-01,1973-01-01,NL,0.14,
 1969-01-01,1971-01-01,NL,0.12,
-2015-01-01,,"NL-AW
+2012-10-01,,"NL-AW
 NL-CW
 NL-SX
 AW
 CW
 SX",0,"Aruba, Curacao and Sint Maarten (Dutch countries) are exempted of VAT."
-2015-01-01,,"NL-BQ1
+2012-10-01,,"NL-BQ1
 NL-BQ2
 NL-BQ3
 BQ",0,"Bonaire, Saba and Sint Eustatius (Dutch special municipalities) are exempted of VAT."
 2011-01-01,,PL,0.23,Poland (member state) standard VAT rate.
 1993-01-08,2011-01-01,PL,0.22,
-2015-01-01,,PN,0,Pitcairn Islands (British overseas territory) is exempted of VAT.
+2011-01-04,,PN,0,Pitcairn Islands (British overseas territory) is exempted of VAT.
 2011-01-01,,PT,0.23,Portugal (member state) standard VAT rate.
 2010-07-01,2011-01-01,PT,0.21,
 2008-07-01,2010-07-01,PT,0.2,
@@ -250,8 +250,8 @@ BQ",0,"Bonaire, Saba and Sint Eustatius (Dutch special municipalities) are exemp
 1992-03-24,1995-01-01,PT,0.16,
 1988-02-01,1992-03-24,PT,0.17,
 1986-01-01,1988-02-01,PT,0.16,
-2015-01-01,,PT-20,0.18,Azores (Portuguese autonomous region) special VAT rate.
-2015-01-01,,PT-30,0.22,Madeira (Portuguese autonomous region) special VAT rate.
+2011-01-01,,PT-20,0.18,Azores (Portuguese autonomous region) special VAT rate.
+2011-01-01,,PT-30,0.22,Madeira (Portuguese autonomous region) special VAT rate.
 2010-07-01,,RO,0.24,Romania (member state) standard VAT rate.
 2000-01-01,2010-07-01,RO,0.19,
 1998-02-01,2000-01-01,RO,0.22,
@@ -263,7 +263,7 @@ BQ",0,"Bonaire, Saba and Sint Eustatius (Dutch special municipalities) are exemp
 1977-06-01,1980-09-08,SE,0.2063,
 1971-01-01,1977-06-01,SE,0.1765,
 1969-01-01,1971-01-01,SE,0.1111,
-2015-01-01,,"SH
+2011-01-04,,"SH
 TA
 AC",0,"Saint Helena, Ascension and Tristan da Cunha (British overseas territory) is exempted of VAT."
 2013-07-01,,SI,0.22,Slovenia (member state) standard VAT rate.
@@ -275,7 +275,7 @@ AC",0,"Saint Helena, Ascension and Tristan da Cunha (British overseas territory)
 1996-01-01,,SK,0.23,
 1993-08-01,,SK,0.25,
 1993-01-01,,SK,0.23,
-2015-01-01,,TC,0,Turks and Caicos Islands (British overseas territory) is exempted of VAT.
+2011-01-04,,TC,0,Turks and Caicos Islands (British overseas territory) is exempted of VAT.
 2011-01-04,,"GB
 UK
 IM",0.2,"United Kingdom (member state) standard VAT rate.
@@ -298,4 +298,4 @@ IM",0.08,
 1973-04-01,1974-07-29,"GB
 UK
 IM",0.1,
-2015-01-01,,VG,0,British Virgin Islands (British overseas territory) is exempted of VAT.
+2011-01-04,,VG,0,British Virgin Islands (British overseas territory) is exempted of VAT.
