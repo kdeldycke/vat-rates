@@ -13,7 +13,7 @@ Schema
 
 `stop_date` is an inclusive UTC date-time from which the rate is no longer valid.
 
-`territory_code` is a list of
+`territory_codes` is a list of
   * ISO 3166-1 alpha-2 country codes,
   * ISO 3166-2 subdivision codes, or
   * normalized postal code with a leading ISO 3166-1 alpha-2 country codes.
