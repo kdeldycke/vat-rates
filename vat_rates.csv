@@ -1,4 +1,4 @@
-start_date,stop_date,territory_codes,rate,description
+start_date,stop_date,territory_codes,standard_rate,description
 2015-01-01T00:00:00.000000+00:00,,AI,0,Anguilla (British overseas territory) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,AT,0.2,Austria (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,"AT-6691
