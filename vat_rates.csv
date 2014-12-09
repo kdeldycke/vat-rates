@@ -271,11 +271,11 @@ AC",0,"Saint Helena, Ascension and Tristan da Cunha (British overseas territory)
 2002-01-01,2013-07-01,SI,0.2,
 1999-07-01,2002-01-01,SI,0.19,
 2011-01-01,,SK,0.2,Slovakia (member state) standard VAT rate.
-2004-01-01,,SK,0.19,
-2003-01-01,,SK,0.2,
-1996-01-01,,SK,0.23,
-1993-08-01,,SK,0.25,
-1993-01-01,,SK,0.23,
+2004-01-01,2011-01-01,SK,0.19,
+2003-01-01,2004-01-01,SK,0.2,
+1996-01-01,2003-01-01,SK,0.23,
+1993-08-01,1996-01-01,SK,0.25,
+1993-01-01,1993-08-01,SK,0.23,
 2011-01-04,,TC,0,Turks and Caicos Islands (British overseas territory) is exempted of VAT.
 2011-01-04,,"GB
 UK
