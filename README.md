@@ -2,11 +2,18 @@ EU VAT rates database
 =====================
 
 
-Starting January 1st, 2015, all european businesses are required to apply the
-VAT depending on the locality of their customer.
+Any european businesses are required to apply a VAT on all purchases made by
+each of their european individual customers (B2C). Starting January 1st, 2015,
+the rate to apply depends on the locality of the customer.
 
-This project aims to centralize, in a machine-readable format, the list of
-applicable rates for each country and all their territorial exceptions.
+This project aims to centralize, in a machine-readable format (currently a
+plain CSV file), the list of applicable rates for each country of residence,
+and all their territorial exceptions.
+
+These rules now also concerns any foreign SaaS business having non-B2B european
+customers.
+
+This is a painful requirement, so please help me keep this database up to date.
 
 
 Schema
