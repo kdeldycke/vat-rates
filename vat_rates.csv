@@ -21,6 +21,8 @@ CH-8238",0,Busingen am Hochrhein (German territory) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,DK,0.25,Denmark (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,EE,0.2,Estonia (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,EL,0.23,Greece (member state) standard VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GR
+EL",0.23,Greece (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,ES,0.21,Spain (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,"ES-CN
 ES-GC
@@ -63,22 +65,37 @@ WF",0,Wallis and Futuna (French overseas collectivity) is exempted of VAT.
 YT",0,Mayotte (French overseas department) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,"GB-BFPO 57
 GB-BFPO 58
-GB-BFPO 59",0.19,Akrotiri and Dhekelia (British overseas territory) is subjected to Cyprus' standard VAT rate.
+GB-BFPO 59
+UK-BFPO 57
+UK-BFPO 58
+UK-BFPO 59",0.19,Akrotiri and Dhekelia (British overseas territory) is subjected to Cyprus' standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,GG,0,Guernsey (British Crown dependency) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,GI,0,Gibraltar (British overseas territory) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,GL,0,Greenland (Danish autonomous country) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,GR-34007,0.16,Skyros (Greek island) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GR-34007
+EL-34007",0.16,Skyros (Greek island) special VAT rate.
 2015-01-01T00:00:00.000000+00:00,,"GR-37002
 GR-37003
-GR-37005",0.16,Northern Sporades (Greek islands) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,GR-64004,0.16,Thasos (Greek island) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,GR-68002,0.16,Samothrace (Greek island) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,GR-69,0,Mount Athos (Greek self-governed part) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,GR-81,0.16,Dodecanese (Greek department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,GR-82,0.16,Cyclades (Greek department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,GR-83,0.16,Lesbos (Greek department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,GR-84,0.16,Samos (Greek department) special VAT rate.
-2015-01-01T00:00:00.000000+00:00,,GR-85,0.16,Chios (Greek department) special VAT rate.
+GR-37005
+EL-37002
+EL-37003
+EL-37005",0.16,Northern Sporades (Greek islands) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GR-64004
+EL-64004",0.16,Thasos (Greek island) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GR-68002
+EL-68002",0.16,Samothrace (Greek island) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GR-69
+EL-69",0,Mount Athos (Greek self-governed part) is exempted of VAT.
+2015-01-01T00:00:00.000000+00:00,,"GR-81
+EL-81",0.16,Dodecanese (Greek department) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GR-82
+EL-82",0.16,Cyclades (Greek department) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GR-83
+EL-83",0.16,Lesbos (Greek department) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GR-84
+EL-84",0.16,Samos (Greek department) special VAT rate.
+2015-01-01T00:00:00.000000+00:00,,"GR-85
+EL-85",0.16,Chios (Greek department) special VAT rate.
 2015-01-01T00:00:00.000000+00:00,,GS,0,South Georgia and the South Sandwich Islands (British overseas territory) is exempted of VAT.
 2015-01-01T00:00:00.000000+00:00,,HR,0.25,Croatia (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,HU,0.27,Hungary (member state) standard VAT rate.
@@ -117,7 +134,8 @@ BQ",0,"Bonaire, Saba and Sint Eustatius (Dutch special municipalities) are exemp
 2015-01-01T00:00:00.000000+00:00,,SI,0.22,Slovenia (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,SK,0.2,Slovakia (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,TC,0,Turks and Caicos Islands (British overseas territory) is exempted of VAT.
-2015-01-01T00:00:00.000000+00:00,,"UK
+2015-01-01T00:00:00.000000+00:00,,"GB
+UK
 IM",0.2,"United Kingdom (member state) standard VAT rate.
 Isle of Man (British self-governing dependency) is member of the EU VAT area and subjected to UK's standard VAT rate."
 2015-01-01T00:00:00.000000+00:00,,VG,0,British Virgin Islands (British overseas territory) is exempted of VAT.

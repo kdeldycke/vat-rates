@@ -15,7 +15,8 @@ Schema
 
 `territory_codes` is a list of
   * ISO 3166-1 alpha-2 country codes,
-  * ISO 3166-2 subdivision codes, or
+  * [European Commission country codes](http://publications.europa.eu/code/pdf/370000en.htm#pays),
+  * ISO 3166-2 subdivision codes, and
   * normalized postal code with a leading ISO 3166-1 alpha-2 country codes.
 
 `rate` is the decimal VAT rate.
