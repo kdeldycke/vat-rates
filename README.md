@@ -45,4 +45,5 @@ Sources
 License
 -------
 
-This software is licensed under a [BSD 2-Clause License](./LICENSE.md).
+The content of this repository is licensed under a [BSD 2-Clause
+License](./LICENSE.md).
