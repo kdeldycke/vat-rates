@@ -22,6 +22,7 @@ Status
 This matrix expose the completeness of the database:
 
 Administrative family | [EU member states](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union) | [Special territories](https://en.wikipedia.org/wiki/Special_member_state_territories_and_the_European_Union)
+--- | --- | ---
 Number | 28 | ?
 Standard rates | All | All
 Reduced rates | None | None
