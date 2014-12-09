@@ -22,7 +22,14 @@ DE-87569",0.19,Mittelberg (Austrian town) special VAT rate.
 1996-07-01,1999-01-01,BG,0.22,
 1994-04-01,1996-07-01,BG,0.18,
 2011-01-04,,BM,0,Bermuda (British overseas territory) is exempted of VAT.
-2014-01-13,,CY,0.19,Cyprus (member state) standard VAT rate.
+2014-01-13,,"CY
+GB-BFPO 57
+GB-BFPO 58
+GB-BFPO 59
+UK-BFPO 57
+UK-BFPO 58
+UK-BFPO 59",0.19,"Cyprus (member state) standard VAT rate.
+Akrotiri and Dhekelia (British overseas territory) is subjected to Cyprus' standard VAT rate."
 2013-01-14,2014-01-13,CY,0.18,
 2012-03-01,2013-01-14,CY,0.17,
 2003-01-01,2012-03-01,CY,0.15,
@@ -131,12 +138,6 @@ TF",0,French Southern and Antarctic Lands (French overseas territory) is exempte
 WF",0,Wallis and Futuna (French overseas collectivity) is exempted of VAT.
 2014-01-01,,"FR-YT
 YT",0,Mayotte (French overseas department) is exempted of VAT.
-2014-01-13,,"GB-BFPO 57
-GB-BFPO 58
-GB-BFPO 59
-UK-BFPO 57
-UK-BFPO 58
-UK-BFPO 59",0.19,Akrotiri and Dhekelia (British overseas territory) is subjected to Cyprus' standard VAT rate.
 2011-01-04,,GG,0,Guernsey (British Crown dependency) is exempted of VAT.
 2011-01-04,,GI,0,Gibraltar (British overseas territory) is exempted of VAT.
 1992-01-01,,GL,0,Greenland (Danish autonomous country) is exempted of VAT.
