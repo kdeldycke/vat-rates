@@ -12,10 +12,13 @@ applicable rates for each country and all their territorial exceptions.
 Schema
 ------
 
-`start_date` is an inclusive UTC date-time from which the rate starts to apply.
+`start_date` is an inclusive [ISO 8601 calendar date]
+(https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) from which the rate
+starts to apply.
 
-`stop_date` is an inclusive UTC date-time from which the rate is no longer
-valid.
+`stop_date` is an inclusive [ISO 8601 calendar date]
+(https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) from which the rate is
+no longer valid.
 
 `territory_codes` is a list of
   * [ISO 3166-1 alpha-2 country codes]
