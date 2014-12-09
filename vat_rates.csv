@@ -167,8 +167,8 @@ EL-84",0.16,Samos (Greek department) special VAT rate.
 EL-85",0.16,Chios (Greek department) special VAT rate.
 2011-01-04,,GS,0,South Georgia and the South Sandwich Islands (British overseas territory) is exempted of VAT.
 2012-03-01,,HR,0.25,Croatia (member state) standard VAT rate.
-2009-08-01,,HR,0.23,
-1998-08-01,,HR,0.22,
+2009-08-01,2012-03-01,HR,0.23,
+1998-08-01,2009-08-01,HR,0.22,
 2012-01-01,,HU,0.27,Hungary (member state) standard VAT rate.
 2009-07-01,2012-01-01,HU,0.25,
 2006-01-01,2009-07-01,HU,0.2,
