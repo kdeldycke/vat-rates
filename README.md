@@ -2,8 +2,11 @@ EU VAT rates database
 ====================
 
 
-Starting January 1st, 2015, all european businesses are required to apply the VAT depending
-on the locality of their customer.
+Starting January 1st, 2015, all european businesses are required to apply the
+VAT depending on the locality of their customer.
+
+This project aims to centralize, in a machine-readable format, the list of
+applicable rates for each country and all their territorial exceptions.
 
 
 Schema
