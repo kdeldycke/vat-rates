@@ -16,6 +16,23 @@ customers.
 This is a painful requirement, so please help me keep this database up to date.
 
 
+Status
+------
+
+This matrix expose the completeness of the database:
+
+Administrative family | [EU member states](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union) | [Special territories](https://en.wikipedia.org/wiki/Special_member_state_territories_and_the_European_Union)
+Number | 28 | ?
+Standard rates | All | All
+Reduced rates | None | None
+Increased rates | None | None
+Parking rates | None | None
+Historical standard rates | All | None
+Historical reduced rates | None | None
+Historical increased rates | None | None
+Historical parking rates | None | None
+
+
 Schema
 ------
 
