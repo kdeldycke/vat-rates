@@ -27,9 +27,9 @@ valid.
   (https://en.wikipedia.org/wiki/Postal_code#Country_code_prefixes) with a
   leading ISO 3166-1 alpha-2 country codes.
 
-`rate` is the decimal VAT rate.
+`standard_rate` is the decimal standard VAT rate.
 
-`description` describe the rate.
+`description` human readable description of the territory the rate applies to.
 
 
 Sources
