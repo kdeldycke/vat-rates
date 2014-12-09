@@ -130,7 +130,9 @@ BQ",0,"Bonaire, Saba and Sint Eustatius (Dutch special municipalities) are exemp
 2015-01-01T00:00:00.000000+00:00,,PT-30,0.22,Madeira (Portuguese autonomous region) special VAT rate.
 2015-01-01T00:00:00.000000+00:00,,RO,0.24,Romania (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,SE,0.25,Sweden (member state) standard VAT rate.
-2015-01-01T00:00:00.000000+00:00,,SH,0,"Saint Helena, Ascension and Tristan da Cunha (British overseas territory) is exempted of VAT."
+2015-01-01T00:00:00.000000+00:00,,"SH
+TA
+AC",0,"Saint Helena, Ascension and Tristan da Cunha (British overseas territory) is exempted of VAT."
 2015-01-01T00:00:00.000000+00:00,,SI,0.22,Slovenia (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,SK,0.2,Slovakia (member state) standard VAT rate.
 2015-01-01T00:00:00.000000+00:00,,TC,0,Turks and Caicos Islands (British overseas territory) is exempted of VAT.
