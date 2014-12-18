@@ -80,7 +80,6 @@ no longer valid.
   * `increased`
   * `reduced`
   * `parking`
-  * `regional`
 
 `description` human-readable description of the territory the rate applies to,
 and eventual rationale behind the application.
