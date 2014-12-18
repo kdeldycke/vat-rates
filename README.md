@@ -73,7 +73,14 @@ no longer valid.
   (https://en.wikipedia.org/wiki/Postal_code#Country_code_prefixes) with a
   leading ISO 3166-1 alpha-2 country codes.
 
-`standard_rate` is the decimal standard VAT rate.
+`rate` is the decimal rate.
+
+`rate_type` is the kind of rate. Either:
+  * `standard`
+  * `increased`
+  * `reduced`
+  * `parking`
+  * `regional`
 
 `description` human-readable description of the territory the rate applies to,
 and eventual rationale behind the application.
