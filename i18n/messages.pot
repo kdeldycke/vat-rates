@@ -1,0 +1,34 @@
+# Translations template for VAT vocabulary.
+# Copyright (C) 2014 Kevin Deldycke
+# This file is distributed under the same license as the vat-rates project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: vat-rates\n"
+"Report-Msgid-Bugs-To: kevin@deldycke.com\n"
+"POT-Creation-Date: 2014-12-18 15:43+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 1.3\n"
+
+# Abbreviation
+msgid "VAT"
+msgstr ""
+
+# Full form
+msgid "Value Added Tax"
+msgstr ""
+
+# VIES VAT number
+msgid "VAT number"
+msgstr ""
+
+# Legaleses reference for invoicing
+msgid "Applicable rate according Council Directives 2006/112/EC and 2008/8/EC."
+msgstr ""
