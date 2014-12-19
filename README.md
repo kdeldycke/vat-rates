@@ -22,7 +22,8 @@ Your european B2B customers are exempted of VAT, as long as they provide a
 registered VAT number. You can check their validity on the [VAT Information
 Exchange System (VIES)](http://ec.europa.eu/taxation_customs/vies/). I
 recommend using a third-party library to automate the process, like [pyvat]
-(https://github.com/iconfinder/pyvat) for Python.
+(https://github.com/iconfinder/pyvat) for Python. A B2B customer without VAT
+number is considered as a simple B2C customer, so local rate applies.
 
 Note that starting January 1st, 2015, these [rules applies to all non-european
 SaaS businesses]
