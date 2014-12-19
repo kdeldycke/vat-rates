@@ -88,6 +88,25 @@ and eventual rationale behind the application.
 Rows are sorted by `territory_codes`, then `start_date`.
 
 
+Intepretation
+-------------
+
+Staring from this database, your next step is to intepret the data.
+
+By looking at the dates, you can compute if a rate is either current,
+historical or future. Beware, some rates changes in the middle of a month.
+That means your billing system should support application of several rates on a
+monthly invoice.
+
+To choose the right rate, you then need to guess the location of your customer.
+I advise you to derive this data from the billing address, as it's the most
+common element with the necessary administrative granularity. An address that
+is properly normalized is precise enough, down to the postal code, to select
+the right VAT rule, including territorial exeptions. To solve the territory
+complex, I wrote a [Python module to parse and normalize postal addresses]
+(https://github.com/online-labs/postal-address).
+
+
 Sources
 -------
 
