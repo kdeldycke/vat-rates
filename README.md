@@ -143,6 +143,16 @@ add the missing entries based on the list of included and excluded zones of the
 (https://en.wikipedia.org/wiki/European_Union_Value_Added_Tax_Area#EU_VAT_area).
 
 
+History
+-------
+
+I decided to create this database because all the [current VAT libs were quite
+naive](https://github.com/kdeldycke/vat-rates/issues/2#issuecomment-67084124)
+about the territory definition. Most of the time it's only based on the country,
+while the territory a tax applies to, in a fiscal context, is a much more
+insidious concept carrying administrative, political and historical underlayings.
+
+
 License
 -------
 
