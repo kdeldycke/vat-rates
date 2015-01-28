@@ -74,6 +74,10 @@ no longer valid.
   (https://en.wikipedia.org/wiki/Postal_code#Country_code_prefixes) with a
   leading ISO 3166-1 alpha-2 country codes.
 
+`currency_code` is the [*de jure*](https://en.wikipedia.org/wiki/De_jure)
+[ISO 4217 currency code](https://en.wikipedia.org/wiki/ISO_4217) (a.k.a.
+legal tender), not *de facto*'s one.
+
 `rate` is the decimal rate.
 
 `rate_type` is the kind of rate. Either:
