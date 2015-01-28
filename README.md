@@ -47,10 +47,12 @@ Standard rates | All | All
 Reduced rates | None | None
 Increased rates | None | None
 Parking rates | None | None
+Currency codes | All | All
 Historical standard rates | All | None
 Historical reduced rates | None | None
 Historical increased rates | None | None
 Historical parking rates | None | None
+Historical currency codes | Wrongly aligned to current one | Wrongly aligned to current one
 
 
 Schema
