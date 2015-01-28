@@ -154,9 +154,14 @@ History
 
 I decided to create this database because all the [current VAT libs were quite
 naive](https://github.com/kdeldycke/vat-rates/issues/2#issuecomment-67084124)
-about the territory definition. Most of the time it's only based on the country,
-while the territory a tax applies to, in a fiscal context, is a much more
-insidious concept carrying administrative, political and historical underlayings.
+about the territory definition. Most of the time it's only based on the
+country, while the territory a tax applies to, in a fiscal context, is a much
+more insidious concept carrying administrative, political and historical
+underlayings.
+
+To match the place the supply takes place against the VAT database, I created a
+[Python module to normalize and parse postal addressed]
+(https://github.com/online-labs/postal-address) of my customers.
 
 
 License
