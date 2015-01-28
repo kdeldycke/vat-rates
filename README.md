@@ -167,5 +167,5 @@ To match the place the supply takes place against the VAT database, I created a
 License
 -------
 
-The content of this repository is licensed under a [BSD 2-ClauseLicense]
+The content of this repository is licensed under a [BSD 2-Clause License]
 (./LICENSE.md).
