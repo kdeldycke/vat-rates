@@ -42,7 +42,7 @@ This matrix expose the current completeness of the database:
 
 Administrative family | [EU member states](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union) | [Special territories](https://en.wikipedia.org/wiki/Special_member_state_territories_and_the_European_Union), states, countries, collectivities, islands, departments, towns, …
 :--- |:--- |:---
-Number | 28 / 28 | 57 / ?
+Number | :white_check_mark: 28 / 28 | :white_check_mark: 57 / (?)
 Standard rates | :white_check_mark: All | :white_check_mark: All
 Reduced rates | :x: None | :x: None
 Increased rates | :x: None | :x: None
