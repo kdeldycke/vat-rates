@@ -43,16 +43,16 @@ This matrix expose the current completeness of the database:
 Administrative family | [EU member states](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union) | [Special territories](https://en.wikipedia.org/wiki/Special_member_state_territories_and_the_European_Union)
 :--- |:--- |:---
 Number | 28 | ?
-Standard rates | All | All
-Reduced rates | None | None
-Increased rates | None | None
-Parking rates | None | None
-Currency codes | All | All
-Historical standard rates | All | None
-Historical reduced rates | None | None
-Historical increased rates | None | None
-Historical parking rates | None | None
-Historical currency codes | Wrongly aligned to current one | Wrongly aligned to current one
+Standard rates | :white_check_mark: All | :white_check_mark: All
+Reduced rates | :x: None | :x: None
+Increased rates | :x: None | :x: None
+Parking rates | :x: None | :x: None
+Currency codes | :white_check_mark: All | :white_check_mark: All
+Historical standard rates | :white_check_mark: All | :x: None
+Historical reduced rates | :x: None | :x: None
+Historical increased rates | :x: None | :x: None
+Historical parking rates | :x: None | :x: None
+Historical currency codes | :warning: Wrongly aligned to current one | :warning: Wrongly aligned to current one
 
 
 Schema
