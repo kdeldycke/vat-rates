@@ -30,10 +30,6 @@ SaaS businesses]
 (http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm#new_rules)
 with european customers.
 
-Check the [official documentation]
-(http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/index_en.htm)
-for more details.
-
 
 Status
 ------
@@ -147,6 +143,14 @@ and restarted the locality characterization process for these. I was able to
 add the missing entries based on the list of included and excluded zones of the
 [EU VAT area]
 (https://en.wikipedia.org/wiki/European_Union_Value_Added_Tax_Area#EU_VAT_area).
+
+
+Other resources
+---------------
+
+* [official documentation]
+(http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/index_en.htm)
+* [Rachel Andrew's micro-site](https://rachelandrew.github.io/eu-vat/)
 
 
 History
