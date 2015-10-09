@@ -12,6 +12,12 @@ residence, and all their territorial exceptions.
 
 This is a painful job, so please help me keep this database up to date.
 
+Testimonials
+------------
+
+> I'm impressed with your BFPO detail.
+-- [Tim Whitlock](https://twitter.com/timwhitlock/status/652464484578144256)
+
 
 VAT application rules
 ---------------------
