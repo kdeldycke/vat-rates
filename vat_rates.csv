@@ -238,7 +238,10 @@ SX",ANG,0,standard,Curacao and Sint Maarten (Dutch countries) are exempted of VA
 2012-10-01,,"NL-BQ1
 NL-BQ2
 NL-BQ3
-BQ",USD,0,standard,"Bonaire, Saba and Sint Eustatius (Dutch special municipalities) are exempted of VAT."
+BQ
+BQ-BO
+BQ-SA
+BQ-SE",USD,0,standard,"Bonaire, Saba and Sint Eustatius (Dutch special municipalities) are exempted of VAT."
 2011-01-01,,PL,PLN,0.23,standard,Poland (member state) standard VAT rate.
 1993-01-08,2011-01-01,PL,PLN,0.22,standard,
 2011-01-04,,PN,NZD,0,standard,Pitcairn Islands (British overseas territory) is exempted of VAT.
