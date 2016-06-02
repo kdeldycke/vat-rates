@@ -191,7 +191,9 @@ EL-85",EUR,0.16,standard,Chios (Greek department) special VAT rate.
 1973-09-03,1976-03-01,IE,EUR,0.195,standard,
 1972-11-01,1973-09-03,IE,EUR,0.1637,standard,
 2011-01-04,,IO,GBP,0,standard,British Indian Ocean Territory (British overseas territory) is exempted of VAT.
-2013-10-01,,IT,EUR,0.22,standard,Italy (member state) standard VAT rate.
+2018-01-01,,IT,EUR,0.25,standard,Italy (member state) standard VAT rate.
+2017-01-01,2018-01-01,IT,EUR,0.24,standard,Italy (member state) standard VAT rate.
+2013-10-01,2017-01-01,IT,EUR,0.22,standard,Italy (member state) standard VAT rate.
 2011-09-17,2013-10-01,IT,EUR,0.21,standard,
 1997-10-01,2011-09-17,IT,EUR,0.2,standard,
 1988-08-01,1997-10-01,IT,EUR,0.19,standard,
