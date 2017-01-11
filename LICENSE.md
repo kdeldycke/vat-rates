@@ -1,7 +1,7 @@
 BSD 2-Clause License
 --------------------
 
-Copyright (c) 2014-2017, [Kevin Deldycke](http://kevin.deldycke.com) and
+Copyright (c) 2014-2017, [Kevin Deldycke](https://kevin.deldycke.com) and
 individual contributors.
 All rights reserved.
 

@@ -30,14 +30,14 @@ The locality rule only concerns your european B2C customers.
 
 Your european B2B customers are exempted of VAT, as long as they provide a
 registered VAT number. You can check their validity on the [VAT Information
-Exchange System (VIES)](http://ec.europa.eu/taxation_customs/vies/). I
+Exchange System (VIES)](https://ec.europa.eu/taxation_customs/vies/). I
 recommend using a third-party library to automate the process, like [pyvat]
 (https://github.com/iconfinder/pyvat) for Python. A B2B customer without VAT
 number is considered as a simple B2C customer, so local rate applies.
 
 Note that starting January 1st, 2015, these [rules applies to all non-european
 SaaS businesses]
-(http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm#new_rules)
+(https://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm#new_rules)
 with european customers.
 
 
@@ -76,7 +76,7 @@ no longer valid.
   * [ISO 3166-1 alpha-2 country codes]
   (https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2),
   * [European Commission country codes]
-  (http://publications.europa.eu/code/pdf/370000en.htm#pays),
+  (https://publications.europa.eu/code/pdf/370000en.htm#pays),
   * [ISO 3166-2 subdivision codes](https://en.wikipedia.org/wiki/ISO_3166-2),
   * [normalized postal code]
   (https://en.wikipedia.org/wiki/Postal_code#Country_code_prefixes) with a
@@ -125,7 +125,7 @@ Sources
 The process of building up this database is somewhat fuzzy.
 
 This database is unequivocally founded on the latest [official VAT Rates]
-(http://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf)
+(https://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf)
 document from the EC portal. It provides all member states' rates and their
 historical values. You'll also find there a description of regions and
 territories were special or no VAT rates applies.
@@ -135,7 +135,7 @@ characterization of locality. Member states and some regions are easy: they
 have a dedicated country code. For these we rely on [ISO 3166-1 alpha-2]
 (https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), with an extra compatibility
 layer for [European Commission country codes]
-(http://publications.europa.eu/code/pdf/370000en.htm#pays) (i.e. the `GB`/`UK`
+(https://publications.europa.eu/code/pdf/370000en.htm#pays) (i.e. the `GB`/`UK`
 and `GR`/`EL` pairs).
 
 When this is not enough, we go down to a lower administrative level and
@@ -159,7 +159,7 @@ Other resources
 ---------------
 
 * [official documentation]
-(http://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/index_en.htm)
+(https://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/index_en.htm)
 * [Rachel Andrew's micro-site](https://rachelandrew.github.io/eu-vat/)
 
 
