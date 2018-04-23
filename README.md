@@ -1,8 +1,8 @@
 EU VAT rates database
 =====================
 
-Any european businesses are required to apply a [value-added tax (VAT)]
-(https://en.wikipedia.org/wiki/Value-added_tax) on all purchases made by each
+Any european businesses are required to apply a [value-added tax 
+(VAT)](https://en.wikipedia.org/wiki/Value-added_tax) on all purchases made by each
 of their european individual customers (B2C). Starting January 1st, 2015, the
 rate depends on the locality of the customer.
 
