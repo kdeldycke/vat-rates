@@ -134,7 +134,7 @@ characterization of locality. Member states and some regions are easy: they
 have a dedicated country code. For these we rely on [ISO 3166-1 
 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), with an extra compatibility
 layer for [European Commission country 
-codes](https://publications.europa.eu/code/pdf/370000en.htm#pays) (i.e. the `GB`/`UK`
+codes](http://publications.europa.eu/code/pdf/370000en.htm#pays) (i.e. the `GB`/`UK`
 and `GR`/`EL` pairs).
 
 When this is not enough, we go down to a lower administrative level and
