@@ -1,16 +1,21 @@
-EU VAT rates database
-=====================
+Online Services VAT Rate Database
+=================================
 
-Any european businesses are required to apply a [value-added tax 
-(VAT)](https://en.wikipedia.org/wiki/Value-added_tax) on all purchases made by each
-of their european individual customers (B2C). Starting January 1st, 2015, the
-rate depends on the locality of the customer.
+Some countries requires businesses to apply, for any electronic
+consumer sales (B2C), a [value-added tax 
+(VAT)](https://en.wikipedia.org/wiki/Value-added_tax) on all purchased online services
+(cloud, SaaS, ...) made by their citizen. Which impose all foreign companies to track the
+residency of all their customers, to apply the right tax.
 
-This project aims to centralize, in a machine-readable format (currently a
-plain CSV file), the list of applicable rates for each european country of
+This trend started January 1st 2015 with all European country, and is about to be
+implemented by others too.
+
+As the rate depends on the locality of the customer, this project aims to centralize,
+in a machine-readable format (currently a
+plain CSV file), the list of applicable rates for each country of
 residence, and all their territorial exceptions.
 
-This is a painful job, so please help me keep this database up to date.
+This is a painful job, worth sharing with a community, so please help me keep this database up to date! :)
 
 
 Testimonials
@@ -23,12 +28,12 @@ Testimonials
 -- [Will Bond](https://twitter.com/wbond/status/560532109304291331)
 
 
-VAT application rules
+VAT Application Rules
 ---------------------
 
-The locality rule only concerns your european B2C customers.
+All B2C customers matching the locality in that file are subject to the corresponding tax.
 
-Your european B2B customers are exempted of VAT, as long as they provide a
+Your B2B customers are exempted of VAT, as long as they provide a
 registered VAT number. You can check their validity on the [VAT Information
 Exchange System (VIES)](https://ec.europa.eu/taxation_customs/vies/). I
 recommend using a third-party library to automate the process, like 
@@ -102,12 +107,12 @@ Rows are sorted by `territory_codes`, then `start_date`.
 Intepretation
 -------------
 
-Staring from this database, your next step is to intepret the data.
+Starting from this database, your next step is to intepret the data.
 
 By looking at the dates, you can compute if a rate is either current,
 historical or future. Beware, some rates changes in the middle of a month.
-That means your billing system should support application of several rates on a
-monthly invoice.
+That means on theory, your billing system should support pro-rata application
+of several rates on a monthly invoice.
 
 To choose the right rate, you then need to guess the location of your customer.
 I advise you to derive this data from the billing address, as it's the most
