@@ -1,7 +1,7 @@
 Online Services VAT Rate Database
 =================================
 
-Some countries requires businesses to apply, for any electronic
+Some countries requires businesses to apply, for any onnline/electronic/digital/cloud
 consumer sales (B2C), a [value-added tax 
 (VAT)](https://en.wikipedia.org/wiki/Value-added_tax) on all purchased online services
 (cloud, SaaS, ...) made by their citizen. Which impose all foreign companies to track the
