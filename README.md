@@ -131,7 +131,7 @@ This database is unequivocally founded on the latest [official VAT
 Rates](https://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf)
 document from the EC portal. It provides all member states' rates and their
 historical values. You'll also find there a description of regions and
-territories were special or no VAT rates applies.
+territories where special or no VAT rates applies.
 
 Still, the hardest part of establishing this database lies in the
 characterization of locality. Member states and some regions are easy: they
