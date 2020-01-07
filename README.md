@@ -1,5 +1,4 @@
-Online Services VAT Rate Database
-=================================
+# 💸 [Digital,Cloud,Electronic,Online] Services VAT Rate Database
 
 Some countries requires businesses to apply, for any sales of online/electronic/digital/cloud services to
 consumers (B2C), a [value-added tax 
@@ -17,8 +16,7 @@ residence, and all their territorial exceptions.
 This is a painful job, worth sharing with a community, so please help me keep this database up to date! :)
 
 
-Testimonials
-------------
+## Testimonials
 
 > I'm impressed with your BFPO detail.
 -- [Tim Whitlock](https://twitter.com/timwhitlock/status/652464484578144256)
@@ -27,8 +25,7 @@ Testimonials
 -- [Will Bond](https://twitter.com/wbond/status/560532109304291331)
 
 
-VAT Application Rules
----------------------
+## VAT Application Rules
 
 All B2C customers matching the locality in that file are subject to the corresponding tax.
 
@@ -39,13 +36,12 @@ recommend using a third-party library to automate the process, like
 [pyvat](https://github.com/iconfinder/pyvat) for Python. A B2B customer without VAT
 number is considered as a simple B2C customer, so local rate applies.
 
-Note that starting January 1st, 2015, these [rules applies to all non-european SaaS
+Note that starting January 1st, 2015, these [rules applies to all non-European SaaS
 businesses](https://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/telecom/index_en.htm#new_rules)
-with european customers.
+with European customers.
 
 
-Status
-------
+## Status
 
 This matrix expose the current completeness of the database:
 
@@ -64,8 +60,7 @@ Historical parking rates | :x: None | :x: None
 Historical currency codes | :warning: Wrongly aligned to current one | :warning: Wrongly aligned to current one
 
 
-Schema
-------
+## Schema
 
 `start_date` is an inclusive [ISO 8601 calendar 
 date](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) from which the rate
@@ -103,10 +98,9 @@ and eventual rationale behind the application.
 Rows are sorted by `territory_codes`, then `start_date`.
 
 
-Intepretation
--------------
+## Interpretation
 
-Starting from this database, your next step is to intepret the data.
+Starting from this database, your next step is to interpret the data.
 
 By looking at the dates, you can compute if a rate is either current,
 historical or future. Beware, some rates changes in the middle of a month.
@@ -117,13 +111,12 @@ To choose the right rate, you then need to guess the location of your customer.
 I advise you to derive this data from the billing address, as it's the most
 common element with the necessary administrative granularity. An address that
 is properly normalized is precise enough, down to the postal code, to select
-the right VAT rule, including territorial exeptions. To solve the territory
+the right VAT rule, including territorial exceptions. To solve the territory
 complex, I wrote a [Python module to parse and normalize postal 
 addresses](https://github.com/online-labs/postal-address).
 
 
-Sources
--------
+## Sources
 
 The process of building up this database is somewhat fuzzy.
 
@@ -156,31 +149,28 @@ add the missing entries based on the list of included and excluded zones of the
 [EU VAT area](https://en.wikipedia.org/wiki/European_Union_Value_Added_Tax_Area#EU_VAT_area).
 
 
-Other resources
----------------
+## Other resources
 
 * [official 
 documentation](https://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/index_en.htm)
 * [Rachel Andrew's micro-site](https://rachelandrew.github.io/eu-vat/)
 
 
-History
--------
+## History
 
 I decided to create this database because all the [current VAT libs were quite
 naive](https://github.com/kdeldycke/vat-rates/issues/2#issuecomment-67084124)
 about the territory definition. Most of the time it's only based on the
 country, while the territory a tax applies to, in a fiscal context, is a much
 more insidious concept carrying administrative, political and historical
-underlayings.
+weight.
 
 To match the place the supply takes place against the VAT database, I created a
 [Python module to normalize and parse postal 
 addressed](https://github.com/online-labs/postal-address) of my customers.
 
 
-License
--------
+## License
 
 The content of this repository is licensed under a [BSD 2-Clause 
 License](./LICENSE.md).
