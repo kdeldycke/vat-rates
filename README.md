@@ -154,6 +154,7 @@ add the missing entries based on the list of included and excluded zones of the
 * [official 
 documentation](https://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/index_en.htm)
 * [Rachel Andrew's micro-site](https://rachelandrew.github.io/eu-vat/)
+* [Awesome Billing and Payments](https://github.com/kdeldycke/awesome-billing) - 💰 Billing & Payments Knowledge Base for Cloud Providers.
 
 
 ## History
