@@ -1,4 +1,4 @@
-# 💸 [Digital,Cloud,Electronic,Online] Services VAT Rate Database
+# 💸 {Digital,Cloud,Electronic,Online} Services VAT Rate Database
 
 Some countries requires businesses to apply, for any sales of online/electronic/digital/cloud services to
 consumers (B2C), a [value-added tax 
