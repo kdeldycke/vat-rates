@@ -42,7 +42,9 @@ Akrotiri and Dhekelia (British overseas territory) is subjected to Cyprus' stand
 2004-05-01,2010-01-01,CZ,CZK,0.19,standard,
 1995-01-01,2004-05-01,CZ,CZK,0.22,standard,
 1993-01-01,1995-01-01,CZ,CZK,0.23,standard,
-2007-01-01,,DE,EUR,0.19,standard,Germany (member state) standard VAT rate.
+2021-01-01,,DE,EUR,0.19,standard,Germany (member state) standard VAT rate.
+2020-07-01,2021-01-01,DE,EUR,0.16,standard,
+2007-01-01,2020-07-01,DE,EUR,0.19,standard,
 1998-04-01,2007-01-01,DE,EUR,0.16,standard,
 1993-01-01,1998-04-01,DE,EUR,0.15,standard,
 1983-07-01,1993-01-01,DE,EUR,0.14,standard,
