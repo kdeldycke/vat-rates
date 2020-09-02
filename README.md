@@ -1,7 +1,7 @@
 # 💸 {Digital,Cloud,Electronic,Online} Services VAT Rate Database
 
 Some countries requires businesses to apply, for any sales of online/electronic/digital/cloud services to
-consumers (B2C), a [value-added tax 
+consumers (B2C), a [value-added tax
 (VAT)](https://en.wikipedia.org/wiki/Value-added_tax) on all purchases made by their citizen. This impose all foreign companies to track the
 residency of all their customers, to apply the right tax.
 
@@ -32,7 +32,7 @@ All B2C customers matching the locality in that file are subject to the correspo
 Your B2B customers are exempted of VAT, as long as they provide a
 registered VAT number. You can check their validity on the [VAT Information
 Exchange System (VIES)](https://ec.europa.eu/taxation_customs/vies/). I
-recommend using a third-party library to automate the process, like 
+recommend using a third-party library to automate the process, like
 [pyvat](https://github.com/iconfinder/pyvat) for Python. A B2B customer without VAT
 number is considered as a simple B2C customer, so local rate applies.
 
@@ -62,21 +62,21 @@ Historical currency codes | :warning: Wrongly aligned to current one | :warning:
 
 ## Schema
 
-`start_date` is an inclusive [ISO 8601 calendar 
+`start_date` is an inclusive [ISO 8601 calendar
 date](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) from which the rate
 starts to apply.
 
-`stop_date` is an inclusive [ISO 8601 calendar 
+`stop_date` is an inclusive [ISO 8601 calendar
 date](https://en.wikipedia.org/wiki/ISO_8601#Calendar_dates) from which the rate is
 no longer valid.
 
 `territory_codes` is a list of (eventually mixed):
-  * [ISO 3166-1 alpha-2 country 
+  * [ISO 3166-1 alpha-2 country
   codes](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2),
-  * [European Commission country 
+  * [European Commission country
   codes](http://publications.europa.eu/code/pdf/370000en.htm#pays),
   * [ISO 3166-2 subdivision codes](https://en.wikipedia.org/wiki/ISO_3166-2),
-  * [normalized postal 
+  * [normalized postal
   code](https://en.wikipedia.org/wiki/Postal_code#Country_code_prefixes) with a
   leading ISO 3166-1 alpha-2 country codes.
 
@@ -112,7 +112,7 @@ I advise you to derive this data from the billing address, as it's the most
 common element with the necessary administrative granularity. An address that
 is properly normalized is precise enough, down to the postal code, to select
 the right VAT rule, including territorial exceptions. To solve the territory
-complex, I wrote a [Python module to parse and normalize postal 
+complex, I wrote a [Python module to parse and normalize postal
 addresses](https://github.com/online-labs/postal-address).
 
 
@@ -120,7 +120,7 @@ addresses](https://github.com/online-labs/postal-address).
 
 The process of building up this database is somewhat fuzzy.
 
-This database is unequivocally founded on the latest [official VAT 
+This database is unequivocally founded on the latest [official VAT
 Rates](https://ec.europa.eu/taxation_customs/resources/documents/taxation/vat/how_vat_works/rates/vat_rates_en.pdf)
 document from the EC portal. It provides all member states' rates and their
 historical values. You'll also find there a description of regions and
@@ -128,14 +128,14 @@ territories where special or no VAT rates applies.
 
 Still, the hardest part of establishing this database lies in the
 characterization of locality. Member states and some regions are easy: they
-have a dedicated country code. For these we rely on [ISO 3166-1 
+have a dedicated country code. For these we rely on [ISO 3166-1
 alpha-2](https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2), with an extra compatibility
-layer for [European Commission country 
+layer for [European Commission country
 codes](http://publications.europa.eu/code/pdf/370000en.htm#pays) (i.e. the `GB`/`UK`
 and `GR`/`EL` pairs).
 
 When this is not enough, we go down to a lower administrative level and
-leverage subdivision codes from [ISO 
+leverage subdivision codes from [ISO
 3166-2](https://en.wikipedia.org/wiki/ISO_3166-2).
 
 Things get messy once VAT rules only applies to areas as small as a town. In
@@ -151,7 +151,7 @@ add the missing entries based on the list of included and excluded zones of the
 
 ## Other resources
 
-* [official 
+* [official
 documentation](https://ec.europa.eu/taxation_customs/taxation/vat/how_vat_works/index_en.htm)
 * [List of electronically supplied services](https://ec.europa.eu/taxation_customs/sites/taxation/files/resources/documents/common/buying_online/electronically_supplied_services.pdf)
 * [Rachel Andrew's micro-site](https://rachelandrew.github.io/eu-vat/)
@@ -168,11 +168,11 @@ more insidious concept carrying administrative, political and historical
 weight.
 
 To match the place the supply takes place against the VAT database, I created a
-[Python module to normalize and parse postal 
+[Python module to normalize and parse postal
 addressed](https://github.com/online-labs/postal-address) of my customers.
 
 
 ## License
 
-The content of this repository is licensed under a [BSD 2-Clause 
+The content of this repository is licensed under a [BSD 2-Clause
 License](./LICENSE.md).
