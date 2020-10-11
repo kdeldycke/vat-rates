@@ -313,7 +313,8 @@ UK
 IM",GBP,0.1,standard,
 2011-01-04,,VG,USD,0,standard,British Virgin Islands (British overseas territory) is exempted of VAT.
 2014-01-01,,CP,EUR,0,standard,Clipperton Island (French overseas possession) is exempted of VAT.
-2017-01-01,,CH,CHF,0.08,standard,Switzerland VAT on non-resident providers of digital services to local consumers.
+2017-01-01,2017-12-31,CH,CHF,0.08,standard,Switzerland VAT on non-resident providers of digital services to local consumers.
+2018-01-01,,CH,CHF,0.077,standard,Switzerland VAT on non-resident providers of digital services to local consumers.
 2017-07-01,,AU,AUD,0.1,standard,Australia VAT on non-resident providers of digital services to local consumers.
 2015-07-01,,KR,KRW,0.1,standard,South Korea VAT on non-resident providers of digital services to local consumers.
 2017-01-01,,RU,RUB,0.18,standard,Russia VAT on non-resident providers of digital services to local consumers.
