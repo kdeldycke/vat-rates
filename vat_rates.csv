@@ -212,7 +212,9 @@ CH-6911",CHF,0,standard,Campione (Italian town) is exempted of VAT.
 2009-09-01,,LT,EUR,0.21,standard,Lithuania (member state) standard VAT rate.
 2009-01-01,2009-09-01,LT,EUR,0.19,standard,
 1994-05-01,2009-01-01,LT,EUR,0.18,standard,
-2015-01-01,,LU,EUR,0.17,standard,Luxembourg (member state) standard VAT rate.
+2024-01-01,,LU,EUR,0.17,standard,Luxembourg (member state) standard VAT rate.
+2023-01-01,2023-12-31,LU,EUR,0.16,standard,Luxembourg (member state) temporarily reduced standard VAT rate.
+2015-01-01,2022-12-31,LU,EUR,0.17,standard,
 1992-01-01,2015-01-01,LU,EUR,0.15,standard,
 1983-07-01,1992-01-01,LU,EUR,0.12,standard,
 1971-01-01,1983-07-01,LU,EUR,0.1,standard,
