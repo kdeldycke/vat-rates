@@ -62,7 +62,8 @@ CH-8238",EUR,0,standard,Busingen am Hochrhein (German territory) is exempted of 
 1970-06-29,1977-10-03,DK,DKK,0.15,standard,
 1968-04-01,1970-06-29,DK,DKK,0.125,standard,
 1967-07-03,1968-04-01,DK,DKK,0.1,standard,
-2009-07-01,,EE,EUR,0.2,standard,Estonia (member state) standard VAT rate.
+2024-01-01,,EE,EUR,0.22,standard,Estonia (member state) standard VAT rate.
+2009-07-01,2024-01-01,EE,EUR,0.2,standard,
 1993-01-01,2009-07-01,EE,EUR,0.18,standard,
 1991-01-01,1993-01-01,EE,EUR,0.1,standard,
 2016-06-01,,"GR
@@ -316,8 +317,9 @@ UK
 IM",GBP,0.1,standard,
 2011-01-04,,VG,USD,0,standard,British Virgin Islands (British overseas territory) is exempted of VAT.
 2014-01-01,,CP,EUR,0,standard,Clipperton Island (French overseas possession) is exempted of VAT.
+2024-01-01,,CH,CHF,0.081,standard,Switzerland VAT on non-resident providers of digital services to local consumers.
+2018-01-01,2024-01-01,CH,CHF,0.077,standard,Switzerland VAT on non-resident providers of digital services to local consumers.
 2017-01-01,2017-12-31,CH,CHF,0.08,standard,Switzerland VAT on non-resident providers of digital services to local consumers.
-2018-01-01,,CH,CHF,0.077,standard,Switzerland VAT on non-resident providers of digital services to local consumers.
 2017-07-01,,AU,AUD,0.1,standard,Australia VAT on non-resident providers of digital services to local consumers.
 2015-07-01,,KR,KRW,0.1,standard,South Korea VAT on non-resident providers of digital services to local consumers.
 2017-01-01,,RU,RUB,0.18,standard,Russia VAT on non-resident providers of digital services to local consumers.
