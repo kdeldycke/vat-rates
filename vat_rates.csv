@@ -93,7 +93,8 @@ IC",EUR,0,standard,Canary Islands (Spanish autonomous community) is exempted of 
 2012-09-01,,"ES-ML
 ES-CE
 EA",EUR,0,standard,Ceuta and Melilla (Spanish autonomous cities) is exempted of VAT.
-2013-01-01,,FI,EUR,0.24,standard,Finland (member state) standard VAT rate.
+2024-09-01,,FI,EUR,0.255,standard,Finland (member state) standard VAT rate.
+2013-01-01,2024-09-01,FI,EUR,0.24,standard,
 2010-07-01,2013-01-01,FI,EUR,0.23,standard,
 1994-06-01,2010-07-01,FI,EUR,0.22,standard,
 2013-01-01,,"FI-01
