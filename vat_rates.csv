@@ -62,7 +62,8 @@ CH-8238",EUR,0,standard,Busingen am Hochrhein (German territory) is exempted of 
 1970-06-29,1977-10-03,DK,DKK,0.15,standard,
 1968-04-01,1970-06-29,DK,DKK,0.125,standard,
 1967-07-03,1968-04-01,DK,DKK,0.1,standard,
-2024-01-01,,EE,EUR,0.22,standard,Estonia (member state) standard VAT rate.
+2025-07-01,,EE,EUR,0.24,standard,Estonia (member state) standard VAT rate.
+2024-01-01,2025-07-01,EE,EUR,0.22,standard,
 2009-07-01,2024-01-01,EE,EUR,0.2,standard,
 1993-01-01,2009-07-01,EE,EUR,0.18,standard,
 1991-01-01,1993-01-01,EE,EUR,0.1,standard,
