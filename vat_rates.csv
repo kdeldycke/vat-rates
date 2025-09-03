@@ -266,8 +266,9 @@ BQ-SE",USD,0,standard,"Bonaire, Saba and Sint Eustatius (Dutch special municipal
 1986-01-01,1988-02-01,PT,EUR,0.16,standard,
 2011-01-01,,PT-20,EUR,0.18,standard,Azores (Portuguese autonomous region) special VAT rate.
 2011-01-01,,PT-30,EUR,0.22,standard,Madeira (Portuguese autonomous region) special VAT rate.
-2017-01-01,,RO,RON,0.19,standard,Romania (member state) standard VAT rate.
-2016-01-01,2017-01-01,RO,RON,0.2,standard,Romania (member state) standard VAT rate.
+2025-08-01,,RO,RON,0.21,standard,Romania (member state) standard VAT rate.
+2017-01-01,2025-08-01,RO,RON,0.19,standard,
+2016-01-01,2017-01-01,RO,RON,0.2,standard,
 2010-07-01,2016-01-01,RO,RON,0.24,standard,
 2000-01-01,2010-07-01,RO,RON,0.19,standard,
 1998-02-01,2000-01-01,RO,RON,0.22,standard,
