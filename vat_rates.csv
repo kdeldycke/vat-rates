@@ -327,7 +327,8 @@ IM",GBP,0.1,standard,
 2017-07-01,,AU,AUD,0.1,standard,Australia VAT on non-resident providers of digital services to local consumers.
 2015-07-01,,KR,KRW,0.1,standard,South Korea VAT on non-resident providers of digital services to local consumers.
 2017-01-01,,RU,RUB,0.18,standard,Russia VAT on non-resident providers of digital services to local consumers.
-2015-10-01,,JP,JPY,0.08,standard,Japan VAT on non-resident providers of digital services to local consumers.
+2015-10-01,2019-09-30,JP,JPY,0.08,standard,
+2019-10-01,,JP,JPY,0.10,standard,Japan VAT on non-resident providers of digital services to local consumers.
 2014-06-01,,ZA,ZAR,0.14,standard,South Africa VAT on non-resident providers of digital services to local consumers.
 2015-01-01,,AL,ALL,0.2,standard,Albania VAT on non-resident providers of digital services to local consumers.
 2016-10-01,,NZ,NZD,0.15,standard,New Zealand VAT on non-resident providers of digital services to local consumers.
